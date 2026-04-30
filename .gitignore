@@ -2,6 +2,9 @@ node_modules/
 .env
 
 server/uploads/
+server/*.sqlite
+server/*.sqlite3
+*.db
 
 dist/
 build/
